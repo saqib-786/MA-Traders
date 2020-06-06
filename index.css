@@ -1,0 +1,174 @@
+@media screen and (max-width:600px){
+    .main-box{
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}
+@media screen and (max-width:450px){
+    h5{
+        font-size: 25px;
+    }
+}
+@media screen and (max-width:450px){
+    .MA-pic{
+        width: 30px;
+        height: 30px;
+    }
+}
+@media screen and (max-width:450px){
+    h1{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:450px){
+    .heading{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:450px){
+    .sub-heading{
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width:450px){
+    .slide{
+        width: 100%;
+    }
+}
+@media screen and (max-width:450px){
+    .text-slide{
+        font-size: 15px;
+    }
+}
+ @media screen and (max-width:450px){
+     h6{
+         font-size: 15px;
+     }
+ }
+ @media screen and (max-width:450px){
+    .s-text{
+        font-size: 15px;
+    }
+ }
+ @media screen and (max-width:450px){
+     .main-features-bar{
+         width: 320px;
+     }
+ }
+ @media screen and (max-width:450px){
+     .solution{
+         text-align: center;
+     }
+ }
+@media screen and (max-width:450px){
+    .trust{
+        text-align: center;
+    }
+}
+@media screen and (max-width:450px){
+    .delivery{
+        text-align: center;
+    }
+}
+@media screen and (max-width:450px){
+    h4{
+        text-align: center;
+        width: 320px;
+    }
+}
+
+@media screen and (max-width:450px){
+    .soulution-text{
+        text-align: justify;
+        text-justify: newspaper;
+        width: 320px;
+        
+    }
+}
+@media screen and (max-width:450px){
+    .trust-text{
+        text-align: justify;
+        text-justify: newspaper;
+        width: 320px;
+    }
+}
+@media screen and (max-width:450px){
+    .delivery-text{
+        text-align: justify;
+        text-justify: newspaper;
+        width: 320px;
+    }
+}
+@media screen and (max-width:450px){
+    .about-us1{
+        width: 320px;
+    }
+}
+@media screen and (max-width:450px){
+    .about-text{
+        width: 320px;
+        text-align: justify;
+        text-justify: newspaper;
+    }
+}
+@media screen and (max-width:450px){
+    .footer-text{
+        
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+}
+@media screen and(max-width:450px){
+    .large-icon{
+        display: inline-block;
+        width: 30px;;
+        font-size: 20px;
+        margin: 20px;
+        padding: 20px;
+    }
+}
+@media screen and (max-width:450px){
+    .sm-licon{
+        display: inline-block;
+        width: 320px;
+        margin: 20px;
+        padding: 20px;
+        font-size: 30px;
+
+    }
+}
+@media screen and (max-width:450px){
+    .price-menu{
+        width: 420px;
+        height: auto;
+        font-size: 10px;
+        align-items: center;
+       
+    }
+}
+@media screen and (max-width:450px){
+    .menu-table{
+        width: 420px;
+        height:auto;
+        font-size: 9px;
+        align-items: center;
+        
+    }
+}
+@media screen and (max-width:450px){
+    .price{
+        font-size: 8px;
+        width: 440px;
+        
+        
+    }
+}
+@media screen and (max-width:450px){
+    .menu-price{
+        font-size: 8px;
+        width: 440px;
+    }
+}
+  
+ 
